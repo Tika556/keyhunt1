@@ -55,7 +55,7 @@ Please read the CHANGELOG.md to see the new changes
 # Download and build
 
 This program was made in a linux environment.
-if you are windows user i strongly recommend to use WSL enviroment on Windows.
+if you are windows user i strongly recommend to use WSL environment on Windows.
 it is available in the Microsoft store
 
 Please install on your system
@@ -68,7 +68,7 @@ for legacy version also you are going to need:
 - libssl-dev
 - libgmp-dev
 
-On Debian based systems, run this commands to update your current enviroment
+On Debian based systems, run this commands to update your current environment
 and install the tools needed to compile it
 
 ```
