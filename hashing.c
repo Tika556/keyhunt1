@@ -81,7 +81,7 @@ void ripemd160_hash_multiple(const unsigned char *data0, const unsigned char *da
         EVP_MD_CTX_free(ctx[i]);
     }
 }
-
+/*
 int main() {
     const unsigned char data[] = "The quick brown fox jumps over the lazy dog";
     unsigned char digest[RIPEMD160_DIGEST_LENGTH];
@@ -95,3 +95,4 @@ int main() {
 
     return 0;
 }
+*/
